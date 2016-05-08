@@ -115,7 +115,7 @@
 		<dependency>
 			<groupId>org.st-js.bridge</groupId>
 			<artifactId>html</artifactId>
-			<version>5.0.bv10</version>
+			<version>5.0.bv10-30</version>
 		</dependency>
 	</dependencies>
 
