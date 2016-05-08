@@ -1,11 +1,11 @@
-package com.vg.cloud.js.bridge;
+package com.vg.js.node;
 
 import org.stjs.javascript.Array;
 import org.stjs.javascript.annotation.Native;
 import org.stjs.javascript.annotation.STJSBridge;
 import org.stjs.javascript.functions.Callback1;
 
-import com.vg.cloud.js.bridge.Writable;
+import com.vg.js.node.Writable;
 
 @STJSBridge
 public class NodeProcess {

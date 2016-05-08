@@ -1,4 +1,4 @@
-package com.vg.cloud.js.bridge;
+package com.vg.js.node;
 
 import org.stjs.javascript.Map;
 import org.stjs.javascript.annotation.Native;
