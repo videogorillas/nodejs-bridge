@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.vg</groupId>
 	<artifactId>nodejs-bridge</artifactId>
-	<version>5.10.1</version>
+	<version>5.10.2</version>
 	<description>RxJS bridge for STJS</description>
 	<properties>
 		<stjs.version>3.3.0</stjs.version>

@@ -1,5 +1,6 @@
 package com.vg.js.node;
 
+import org.stjs.javascript.Array;
 import org.stjs.javascript.annotation.Native;
 import org.stjs.javascript.annotation.STJSBridge;
 import org.stjs.javascript.typed.ArrayBuffer;
@@ -56,5 +57,10 @@ public class Buffer {
     @Native
     public void writeInt8(byte val, int offset) {
         throw new RuntimeException("TODO Buffer.writeInt8");
+    }
+
+    @Native
+    public static Buffer concat(Array<Buffer> list) {
+        throw new RuntimeException("TODO Buffer.concat");
     }
 }
